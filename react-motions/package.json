@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/raphamorim/react-motions/issues"
   },
-  "homepage": "https://github.com/raphamorim/react-motions#readme"
+  "homepage": "https://github.com/raphamorim/react-motions#readme",
+  "devDependencies": {
+    "webpack": "^4.0.0"
+  }
 }
